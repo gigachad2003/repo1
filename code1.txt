@@ -10,72 +10,15 @@
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
-            height: 100%;
-            width: 100%;
-            background-color: #1d539d;
-            color: white;
-            padding-top: 6%;
-            box-sizing: border-box;
-            overflow-y: auto;
-            overflow-x: hidden;
-            font-family: "Segoe UI";
-        }
-
-        .cloud-image {
-            width: 1200px;
-            height: 250px;
-            padding-bottom: 50px;
-            margin: auto;
-        }
-
-        .success-text {
-            padding-bottom: 20px;
-            font-size: 62px;
-            line-height: 73px;
-        }
-
-        .description {
-            font-size: 34px;
-            line-height: 40px;
-           
-        }
-
-        .next-steps-container {
-            padding-top: 50px;
-        }
-
-        .next-steps-header {
-            font-size: 24px;
-            line-height: 28px;
-            padding-bottom: 25px;
-        }
-
-        .next-steps-body {
-            display: flex;
-            flex-direction: column;
-        }
-
-         html,
-        body {
-            height: 100%;
-            width: 100%;
-            padding: 0;
-            margin: 0;
-        }
-        @font-face{
-            font-family: "Segoe UI";
-            src: url('../fonts/segoeuil.ttf');
-        }
-        .main-container {
-            height: 100%;
-            width: 100%;
-            background-color: #1d539d;
-            color: white;
-            padding-top: 6%;
-            box-sizing: border-box;
-            overflow-y: auto;
-            overflow-x: hidden;
-            font-family: "Segoe UI";
+            height: 50%;
+            width: 500%;
+            background-color:yellow;
+            color: blacke;
+            padding-top:106%;
+            box-sizing: border-cone;
+            overflow-y: manual;
+            overflow-x: visible;
+            font-family: "Arial";
         }
 
         .cloud-image {
@@ -189,5 +132,3 @@
                 min-width: 630px;
             }
         }
-This file has been created by akshit
-This file has been modified by chirag
